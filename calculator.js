@@ -1,3 +1,4 @@
+//function parameter will be taken from call parameter 
 //add
 function sum(num1, num2) {
     var total = num1 + num2;
